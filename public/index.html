@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Natal na Vila 2024</title>
+  <link 
+    rel="stylesheet" 
+    href="dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container mt-5">
+    <h4 class="text-center">Natal na Vila 2024</h4>
+    <div class="card shadow p-4">
+      <h1 class="text-center mb-4">Envia um presente</h1>
+      <form id="uploadForm" action="/upload" method="POST" enctype="multipart/form-data">
+        <div class="mb-3">
+          <label for="image" class="form-label">Escolhe imagem:</label>
+          <input type="file" class="form-control" name="image" id="image" accept="image/*" required>
+        </div>
+        <div id="preview" class="border p-3 text-center">
+          <p class="text-muted">Nenhuma imagem selecionada</p>
+        </div>
+        <div class="d-grid gap-2 mt-3">
+          <button type="submit" class="btn btn-primary">Enviar</button>
+        </div>
+      </form>
+      <div id="alertContainer" class="mt-3"></div>
+    </div>
+  </div>
+
+  <script src="dist/js/bootstrap.bundle.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
