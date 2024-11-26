@@ -1,0 +1,261 @@
+[2024-11-26T15:32:05.948Z] INFO: GET /debug
+[2024-11-26T15:36:39.361Z] INFO: Server running at http://localhost:8080
+[2024-11-26T15:36:43.253Z] INFO: Server running at http://localhost:8080
+[2024-11-26T15:36:53.430Z] INFO: Server running at http://localhost:8080
+[2024-11-26T15:36:55.656Z] INFO: Server running at http://localhost:8080
+[2024-11-26T15:48:22.729Z] INFO: Server running at http://localhost:8080
+[2024-11-26T15:48:25.863Z] INFO: Server running at http://localhost:8080
+[2024-11-26T15:48:31.578Z] INFO: Server running at http://localhost:8080
+[2024-11-26T15:48:34.447Z] INFO: Server running at http://localhost:8080
+[2024-11-26T15:50:18.230Z] INFO: Server running at http://localhost:8080
+[2024-11-26T15:50:20.670Z] INFO: Incoming Request: GET /
+[2024-11-26T15:50:20.670Z] ERROR: Error: Route not found. (Status Code: 404)
+[2024-11-26T15:52:00.525Z] INFO: Server running at http://localhost:8080
+[2024-11-26T15:52:03.716Z] INFO: Incoming Request: GET /
+[2024-11-26T15:52:03.717Z] ERROR: Error: Route not found. (Status Code: 404)
+[2024-11-26T15:52:04.302Z] INFO: Incoming Request: GET /
+[2024-11-26T15:52:04.304Z] ERROR: Error: Route not found. (Status Code: 404)
+[2024-11-26T15:52:30.655Z] INFO: Server running at http://localhost:8080
+[2024-11-26T15:52:31.068Z] INFO: Server running at http://localhost:8080
+[2024-11-26T15:52:34.467Z] INFO: Server running at http://localhost:8080
+[2024-11-26T15:52:42.888Z] INFO: Server running at http://localhost:8080
+[2024-11-26T15:52:46.102Z] INFO: Server running at http://localhost:8080
+[2024-11-26T15:52:46.546Z] INFO: Server running at http://localhost:8080
+[2024-11-26T15:52:49.486Z] INFO: Server running at http://localhost:8080
+[2024-11-26T15:52:49.560Z] INFO: Incoming Request: GET /
+[2024-11-26T15:52:49.560Z] ERROR: Error: Route not found. (Status Code: 404)
+[2024-11-26T15:52:50.224Z] INFO: Incoming Request: GET /
+[2024-11-26T15:52:50.225Z] ERROR: Error: Route not found. (Status Code: 404)
+[2024-11-26T15:52:54.070Z] INFO: Server running at http://localhost:8080
+[2024-11-26T15:52:56.269Z] INFO: Incoming Request: GET /
+[2024-11-26T15:52:57.313Z] INFO: Server running at http://localhost:8080
+[2024-11-26T15:53:17.288Z] INFO: Server running at http://localhost:8080
+[2024-11-26T15:53:17.737Z] INFO: Server running at http://localhost:8080
+[2024-11-26T15:53:17.805Z] INFO: Incoming Request: GET /
+[2024-11-26T15:53:21.095Z] INFO: Server running at http://localhost:8080
+[2024-11-26T15:54:04.345Z] INFO: Server running at http://localhost:8080
+[2024-11-26T15:54:08.088Z] INFO: Server running at http://localhost:8080
+[2024-11-26T15:54:12.098Z] INFO: Server running at http://localhost:8080
+[2024-11-26T15:54:15.463Z] INFO: Server running at http://localhost:8080
+[2024-11-26T15:54:17.951Z] INFO: Server running at http://localhost:8080
+[2024-11-26T15:54:20.413Z] INFO: Server running at http://localhost:8080
+[2024-11-26T15:54:23.440Z] INFO: Incoming Request: POST /upload
+[2024-11-26T15:54:23.442Z] ERROR: Error: Route not found. (Status Code: 404)
+[2024-11-26T15:54:29.350Z] INFO: Incoming Request: POST /upload
+[2024-11-26T15:54:29.350Z] ERROR: Error: Route not found. (Status Code: 404)
+[2024-11-26T15:54:53.432Z] INFO: Server running at http://localhost:8080
+[2024-11-26T15:54:53.829Z] INFO: Server running at http://localhost:8080
+[2024-11-26T15:54:57.148Z] INFO: Server running at http://localhost:8080
+[2024-11-26T15:54:58.543Z] INFO: Incoming Request: POST /upload
+[2024-11-26T15:54:58.545Z] ERROR: Error: Route not found. (Status Code: 404)
+[2024-11-26T15:55:02.480Z] INFO: Incoming Request: POST /api/image/upload
+[2024-11-26T15:55:02.516Z] INFO: New image added: NLv2.png
+[2024-11-26T15:55:09.712Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-26T15:55:14.565Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-26T15:55:14.566Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-26T15:55:15.909Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-26T15:55:15.910Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-26T15:55:16.317Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-26T15:55:16.318Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-26T15:55:16.484Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-26T15:55:16.484Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-26T15:55:16.629Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-26T15:55:16.630Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-26T15:55:19.472Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-26T15:55:19.472Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-26T15:55:23.784Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-26T15:55:23.785Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-26T15:55:54.974Z] INFO: Incoming Request: GET /api/debug
+[2024-11-26T15:57:21.646Z] INFO: Server running at http://localhost:8080
+[2024-11-26T15:57:22.074Z] INFO: Server running at http://localhost:8080
+[2024-11-26T15:57:23.689Z] INFO: Incoming Request: GET /api/debug
+[2024-11-26T15:57:26.135Z] INFO: Server running at http://localhost:8080
+[2024-11-26T15:58:11.976Z] INFO: Server running at http://localhost:8080
+[2024-11-26T15:58:12.404Z] INFO: Server running at http://localhost:8080
+[2024-11-26T15:58:15.683Z] INFO: Incoming Request: GET /api/debug
+[2024-11-26T15:58:17.648Z] INFO: Incoming Request: GET /api/debug
+[2024-11-26T15:58:17.881Z] INFO: Server running at http://localhost:8080
+[2024-11-26T15:58:18.638Z] INFO: Incoming Request: GET /api/debug
+[2024-11-26T15:58:19.334Z] INFO: Incoming Request: GET /api/debug
+[2024-11-26T15:58:20.226Z] INFO: Incoming Request: GET /api/debug
+[2024-11-26T15:58:20.936Z] INFO: Incoming Request: GET /api/debug
+[2024-11-26T15:58:21.373Z] INFO: Incoming Request: GET /api/debug
+[2024-11-26T15:58:21.565Z] INFO: Incoming Request: GET /api/debug
+[2024-11-26T15:58:21.765Z] INFO: Incoming Request: GET /api/debug
+[2024-11-26T15:58:21.942Z] INFO: Incoming Request: GET /api/debug
+[2024-11-26T15:58:22.105Z] INFO: Incoming Request: GET /api/debug
+[2024-11-26T15:58:22.238Z] INFO: Incoming Request: GET /api/debug
+[2024-11-26T15:58:22.392Z] INFO: Incoming Request: GET /api/debug
+[2024-11-26T15:58:22.553Z] INFO: Incoming Request: GET /api/debug
+[2024-11-26T15:58:26.908Z] INFO: Server running at http://localhost:8080
+[2024-11-26T15:58:27.399Z] INFO: Incoming Request: GET /api/debug
+[2024-11-26T15:58:28.290Z] INFO: Incoming Request: GET /api/debug
+[2024-11-26T15:58:28.583Z] INFO: Incoming Request: GET /api/debug
+[2024-11-26T15:58:28.857Z] INFO: Incoming Request: GET /api/debug
+[2024-11-26T15:58:29.041Z] INFO: Server running at http://localhost:8080
+[2024-11-26T16:04:46.527Z] INFO: Incoming Request: POST /api/image/upload
+[2024-11-26T16:04:48.905Z] INFO: New image added: meo.png
+[2024-11-26T16:04:52.355Z] INFO: Incoming Request: POST /api/image/upload
+[2024-11-26T16:04:52.384Z] INFO: New image added: NLv2.png
+[2024-11-26T16:04:55.326Z] INFO: Incoming Request: GET /api/debug
+[2024-11-26T16:05:22.668Z] INFO: Server running at http://localhost:8080
+[2024-11-26T16:05:23.070Z] INFO: Server running at http://localhost:8080
+[2024-11-26T16:05:26.747Z] INFO: Server running at http://localhost:8080
+[2024-11-26T16:05:29.831Z] INFO: Server running at http://localhost:8080
+[2024-11-26T16:05:58.246Z] INFO: Server running at http://localhost:8080
+[2024-11-26T16:05:58.667Z] INFO: Server running at http://localhost:8080
+[2024-11-26T16:06:01.443Z] INFO: Server running at http://localhost:8080
+[2024-11-26T16:06:04.056Z] INFO: Server running at http://localhost:8080
+[2024-11-26T16:06:09.403Z] INFO: Server running at http://localhost:8080
+[2024-11-26T16:06:12.150Z] INFO: Server running at http://localhost:8080
+[2024-11-26T16:06:29.136Z] INFO: Server running at http://localhost:8080
+[2024-11-26T16:06:30.734Z] INFO: Incoming Request: GET /api/debug
+[2024-11-26T16:06:33.074Z] INFO: Server running at http://localhost:8080
+[2024-11-26T16:06:36.915Z] INFO: Incoming Request: POST /api/image/upload
+[2024-11-26T16:06:37.190Z] INFO: New image added: Logo_Color_POS-e1678461657770.png
+[2024-11-26T16:06:39.478Z] INFO: Incoming Request: POST /api/image/upload
+[2024-11-26T16:06:39.485Z] INFO: New image added: qcGo-Nw9_400x400-removebg-preview.png
+[2024-11-26T16:06:43.068Z] INFO: Incoming Request: POST /api/image/upload
+[2024-11-26T16:06:43.072Z] INFO: New image added: 42-Lisboa_RGB_Vertical.png
+[2024-11-26T16:06:46.333Z] INFO: Incoming Request: GET /api/debug
+[2024-11-26T16:07:00.110Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-26T16:07:01.555Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-26T16:07:01.556Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-26T16:07:04.041Z] INFO: Incoming Request: GET /api/image/next
+[2024-11-26T16:07:04.041Z] INFO: Next image retrieved: Logo_Color_POS-e1678461657770.png
+[2024-11-26T16:07:06.894Z] INFO: Incoming Request: GET /api/image/previous
+[2024-11-26T16:07:06.895Z] INFO: Previous image retrieved: 42-Lisboa_RGB_Vertical.png
+[2024-11-26T16:07:10.278Z] INFO: Incoming Request: GET /api/image/previous
+[2024-11-26T16:07:10.278Z] INFO: Previous image retrieved: qcGo-Nw9_400x400-removebg-preview.png
+[2024-11-26T16:07:10.501Z] INFO: Incoming Request: GET /api/image/previous
+[2024-11-26T16:07:10.501Z] INFO: Previous image retrieved: Logo_Color_POS-e1678461657770.png
+[2024-11-26T16:07:10.717Z] INFO: Incoming Request: GET /api/image/previous
+[2024-11-26T16:07:10.717Z] INFO: Previous image retrieved: 42-Lisboa_RGB_Vertical.png
+[2024-11-26T16:07:10.895Z] INFO: Incoming Request: GET /api/image/previous
+[2024-11-26T16:07:10.896Z] INFO: Previous image retrieved: qcGo-Nw9_400x400-removebg-preview.png
+[2024-11-26T16:07:11.085Z] INFO: Incoming Request: GET /api/image/previous
+[2024-11-26T16:07:11.086Z] INFO: Previous image retrieved: Logo_Color_POS-e1678461657770.png
+[2024-11-26T16:07:11.229Z] INFO: Incoming Request: GET /api/image/previous
+[2024-11-26T16:07:11.229Z] INFO: Previous image retrieved: 42-Lisboa_RGB_Vertical.png
+[2024-11-26T16:52:53.349Z] INFO: Incoming Request: GET /fetch
+[2024-11-26T16:52:53.363Z] ERROR: Error: Route not found. (Status Code: 404)
+[2024-11-26T16:52:58.340Z] INFO: Incoming Request: GET /fetch
+[2024-11-26T16:52:58.341Z] ERROR: Error: Route not found. (Status Code: 404)
+[2024-11-26T16:53:26.525Z] INFO: Incoming Request: GET /api/image/upload
+[2024-11-26T16:53:26.529Z] ERROR: Error: Route not found. (Status Code: 404)
+[2024-11-26T16:53:31.523Z] INFO: Incoming Request: GET /api/image/upload
+[2024-11-26T16:53:31.523Z] ERROR: Error: Route not found. (Status Code: 404)
+[2024-11-26T16:53:36.522Z] INFO: Incoming Request: GET /api/image/upload
+[2024-11-26T16:53:36.522Z] ERROR: Error: Route not found. (Status Code: 404)
+[2024-11-26T16:53:42.269Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-26T16:53:42.270Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-26T16:53:47.305Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-26T16:53:47.306Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-26T16:53:52.987Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-26T16:53:52.988Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-26T16:53:57.991Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-26T16:53:57.991Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-26T16:54:02.992Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-26T16:54:02.993Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-26T16:54:05.024Z] INFO: Incoming Request: POST /api/image/upload
+[2024-11-26T16:54:05.033Z] INFO: New image added: qcGo-Nw9_400x400.jpg
+[2024-11-26T16:54:08.024Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-26T16:54:13.022Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-26T16:54:13.023Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-26T16:54:18.022Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-26T16:54:18.023Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-26T16:54:23.024Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-26T16:54:23.025Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-26T16:54:28.023Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-26T16:54:28.023Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-26T16:54:33.023Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-26T16:54:33.024Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-26T16:54:38.022Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-26T16:54:38.023Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-26T16:54:40.936Z] INFO: Incoming Request: POST /api/image/upload
+[2024-11-26T16:54:41.023Z] INFO: New image added: image.jpg
+[2024-11-26T16:54:43.022Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-26T16:54:48.157Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-26T16:54:48.157Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-26T16:54:53.173Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-26T16:54:53.173Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-26T16:54:58.173Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-26T16:54:58.173Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-26T16:55:03.174Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-26T16:55:03.174Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-26T16:55:08.174Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-26T16:55:08.175Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-26T16:55:13.179Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-26T16:55:13.180Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-26T16:55:18.173Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-26T16:55:18.173Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-26T16:55:23.984Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-26T16:55:23.986Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-26T16:55:28.980Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-26T16:55:28.982Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-26T16:55:30.128Z] INFO: Incoming Request: GET /api/debug
+[2024-11-26T16:55:33.979Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-26T16:55:33.980Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-26T16:55:38.980Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-26T16:55:38.981Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-26T16:55:43.978Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-26T16:55:43.979Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-26T16:55:48.981Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-26T16:55:48.982Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-26T16:55:50.058Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-26T16:55:50.058Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-26T16:55:53.976Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-26T16:55:53.976Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-26T16:55:58.978Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-26T16:55:58.978Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-26T16:56:03.979Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-26T16:56:03.980Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-26T16:56:09.007Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-26T16:56:09.008Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-26T16:56:14.237Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-26T16:56:14.237Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-26T16:56:19.243Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-26T16:56:19.243Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-26T16:56:24.238Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-26T16:56:24.238Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-26T16:56:24.543Z] INFO: Incoming Request: GET /api/image/previous
+[2024-11-26T16:56:24.544Z] INFO: Previous image retrieved: qcGo-Nw9_400x400.jpg
+[2024-11-26T16:56:26.957Z] INFO: Incoming Request: GET /api/image/previous
+[2024-11-26T16:56:26.957Z] INFO: Previous image retrieved: 42-Lisboa_RGB_Vertical.png
+[2024-11-26T16:56:27.483Z] INFO: Incoming Request: GET /api/image/previous
+[2024-11-26T16:56:27.484Z] INFO: Previous image retrieved: qcGo-Nw9_400x400-removebg-preview.png
+[2024-11-26T16:56:27.966Z] INFO: Incoming Request: GET /api/image/previous
+[2024-11-26T16:56:27.967Z] INFO: Previous image retrieved: Logo_Color_POS-e1678461657770.png
+[2024-11-26T16:56:28.355Z] INFO: Incoming Request: GET /api/image/previous
+[2024-11-26T16:56:28.355Z] INFO: Previous image retrieved: image.jpg
+[2024-11-26T16:56:28.851Z] INFO: Incoming Request: GET /api/image/previous
+[2024-11-26T16:56:28.851Z] INFO: Previous image retrieved: qcGo-Nw9_400x400.jpg
+[2024-11-26T16:56:29.240Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-26T16:56:29.241Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-26T16:56:29.357Z] INFO: Incoming Request: GET /api/image/previous
+[2024-11-26T16:56:29.358Z] INFO: Previous image retrieved: 42-Lisboa_RGB_Vertical.png
+[2024-11-26T16:56:29.614Z] INFO: Incoming Request: GET /api/image/previous
+[2024-11-26T16:56:29.615Z] INFO: Previous image retrieved: qcGo-Nw9_400x400-removebg-preview.png
+[2024-11-26T16:56:29.786Z] INFO: Incoming Request: GET /api/image/previous
+[2024-11-26T16:56:29.787Z] INFO: Previous image retrieved: Logo_Color_POS-e1678461657770.png
+[2024-11-26T16:56:29.994Z] INFO: Incoming Request: GET /api/image/previous
+[2024-11-26T16:56:29.995Z] INFO: Previous image retrieved: image.jpg
+[2024-11-26T16:56:30.317Z] INFO: Incoming Request: GET /api/image/previous
+[2024-11-26T16:56:30.333Z] INFO: Previous image retrieved: qcGo-Nw9_400x400.jpg
+[2024-11-26T16:56:30.945Z] INFO: Incoming Request: GET /api/image/previous
+[2024-11-26T16:56:30.945Z] INFO: Previous image retrieved: 42-Lisboa_RGB_Vertical.png
+[2024-11-26T16:56:34.289Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-26T16:56:34.290Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-26T16:56:42.306Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-26T16:56:42.306Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-26T16:56:57.868Z] INFO: Incoming Request: POST /api/image/upload
+[2024-11-26T16:56:57.880Z] INFO: New image added: meo.png
+[2024-11-26T16:57:02.787Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-26T16:57:12.065Z] INFO: Incoming Request: GET /api/image/previous
+[2024-11-26T16:57:12.066Z] INFO: Previous image retrieved: image.jpg
+[2024-11-26T16:57:13.722Z] INFO: Incoming Request: GET /api/image/previous
+[2024-11-26T16:57:13.723Z] INFO: Previous image retrieved: qcGo-Nw9_400x400.jpg
+[2024-11-26T16:57:14.123Z] INFO: Incoming Request: GET /api/image/previous
+[2024-11-26T16:57:14.123Z] INFO: Previous image retrieved: 42-Lisboa_RGB_Vertical.png
+[2024-11-26T16:57:14.536Z] INFO: Incoming Request: GET /api/image/previous
+[2024-11-26T16:57:14.536Z] INFO: Previous image retrieved: qcGo-Nw9_400x400-removebg-preview.png

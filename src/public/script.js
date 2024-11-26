@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const formData = new FormData(uploadForm);
 
     try {
-      const response = await fetch('/upload', {
+      const response = await fetch('/api/image/upload', {
         method: 'POST',
         body: formData,
       });
