@@ -32,30 +32,99 @@ const app = express();
 app.use(express.static(PUBLIC_DIR));
 
 // In-memory store for the last uploaded file
-let lastUploadedFile = null;
+let hasBeenFetched = false;
+let imageList = [];
+let currenIndex = -1
 
-// Routes
-// Upload an image
+
+function newImage(filename){
+  hasBeenFetched = false;
+  imageList.push(filename)
+  currenIndex = imageList.length - 1;
+}
+
+function fetchLastImage(filename){
+  hasBeenFetched = true;
+  return imageList.at(-1); //lastElement
+}
+
+function isValidImageList(){
+  return Array.isArray(imageList) && imageList.length > 0;
+}
+
+function canFetchImage() {
+  
+  //const isValidIndex = typeof currentIndex === 'number' && currentIndex >= 0 && currentIndex < imageList.length;
+  return !hasBeenFetched && isValidImageList();
+}
+
+
+
 app.post('/upload', upload.single('image'), (req, res) => {
   if (!req.file) {
     return res.status(400).json({ error: 'No file uploaded.' });
   }
-  lastUploadedFile = req.file.filename;
+
+  newImage(req.file.filename);
   res.json({ message: 'File uploaded successfully.', filename: req.file.filename });
 });
 
 // Fetch the last uploaded image
 app.get('/fetch', (req, res) => {
-  if (!lastUploadedFile) {
-    return res.status(404).json({ error: 'No image uploaded yet.' });
+  if (!canFetchImage()) {
+    return res.status(204).json({ error: 'No image available' });
   }
-  const filePath = path.join(UPLOAD_DIR, lastUploadedFile);
+  
+  const filePath = path.join(UPLOAD_DIR, fetchLastImage());
   res.sendFile(filePath, (err) => {
     if (err) {
       res.status(500).json({ error: 'Error retrieving the file.' });
     }
   });
 });
+
+
+app.get('/previous', (req, res) => {
+  if (!isValidImageList()) {
+    return res.status(500).json({ error: 'Invalid image list' });
+  }
+  
+  
+  if(currenIndex == 0){ 
+    currenIndex = imageList.length - 1;
+  }else{
+    currenIndex--;
+  }
+  
+  const filePath = path.join(UPLOAD_DIR, imageList.at(currenIndex));
+  res.sendFile(filePath, (err) => {
+    if (err) {
+      res.status(500).json({ error: 'Error retrieving the file.' });
+    }
+  });
+});
+
+app.get('/next', (req, res) => {
+  if (!isValidImageList()) {
+    return res.status(500).json({ error: 'Invalid image list' });
+  }
+  
+  
+  if(currenIndex == imageList.length - 1){
+    currenIndex = 0;
+  }else{
+    currenIndex++;
+  }
+
+  const filePath = path.join(UPLOAD_DIR, imageList.at(currenIndex));
+
+  res.sendFile(filePath, (err) => {
+    if (err) {
+      res.status(500).json({ error: 'Error retrieving the file.' });
+    }
+  });
+});
+
 
 // Start the server
 app.listen(PORT, () => {
