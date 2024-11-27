@@ -28,6 +28,9 @@ router.get('/fetch', (req, res) => {
   }
 
   const filePath = imageService.fetchLastImagePath();
+  const orientation = imageService.getImageOrientation(filePath);
+  
+  res.setHeader("X-ImageOrientation-EXIF", orientation);
   res.sendFile(filePath, (err) => {
     if (err) handleError(res, 500, 'Error retrieving the file.');
   });

@@ -259,3 +259,951 @@
 [2024-11-26T16:57:14.123Z] INFO: Previous image retrieved: 42-Lisboa_RGB_Vertical.png
 [2024-11-26T16:57:14.536Z] INFO: Incoming Request: GET /api/image/previous
 [2024-11-26T16:57:14.536Z] INFO: Previous image retrieved: qcGo-Nw9_400x400-removebg-preview.png
+[2024-11-27T10:01:56.267Z] INFO: Created upload directory: /Users/samuelsilva/personal/teatro/vila-natal2024-server/uploads
+[2024-11-27T10:01:56.270Z] INFO: Server running at http://localhost:8080
+[2024-11-27T10:02:00.670Z] INFO: Incoming Request: GET /favicon.ico
+[2024-11-27T10:02:00.671Z] ERROR: Error: Route not found. (Status Code: 404)
+[2024-11-27T10:02:06.121Z] INFO: Incoming Request: POST /api/image/upload
+[2024-11-27T10:02:10.030Z] INFO: New image added: 42_Portugal_ed2c81d072.png
+[2024-11-27T10:02:21.449Z] INFO: Incoming Request: GET /fetch
+[2024-11-27T10:02:21.452Z] ERROR: Error: Route not found. (Status Code: 404)
+[2024-11-27T10:02:28.963Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:05:05.537Z] INFO: Server running at http://localhost:8080
+[2024-11-27T10:05:10.199Z] INFO: Server running at http://localhost:8080
+[2024-11-27T10:05:13.626Z] INFO: Server running at http://localhost:8080
+[2024-11-27T10:11:21.738Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:11:21.743Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:11:26.729Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:11:26.731Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:11:31.728Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:11:31.729Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:11:36.727Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:11:36.728Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:11:41.727Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:11:41.728Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:11:46.727Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:11:46.729Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:11:51.724Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:11:51.725Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:11:56.727Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:11:56.728Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:12:01.728Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:12:01.729Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:12:06.728Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:12:06.729Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:12:11.707Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:12:11.707Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:12:16.705Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:12:16.706Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:12:21.712Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:12:21.713Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:12:26.707Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:12:26.708Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:12:31.707Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:12:31.708Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:12:36.704Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:12:36.705Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:12:41.704Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:12:41.705Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:12:47.318Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:12:47.319Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:12:52.312Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:12:52.312Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:12:57.316Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:12:57.317Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:13:02.311Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:13:02.311Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:13:07.313Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:13:07.314Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:13:11.680Z] INFO: Incoming Request: GET /favicon.ico
+[2024-11-27T10:13:11.684Z] ERROR: Error: Route not found. (Status Code: 404)
+[2024-11-27T10:13:12.315Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:13:12.316Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:13:17.311Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:13:17.311Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:13:22.336Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:13:22.337Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:13:27.337Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:13:27.337Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:13:31.957Z] INFO: Incoming Request: POST /api/image/upload
+[2024-11-27T10:13:32.075Z] INFO: New image added: image.jpg
+[2024-11-27T10:13:32.336Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:13:37.969Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:13:37.969Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:13:43.563Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:13:43.563Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:13:48.364Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:13:48.366Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:13:53.360Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:13:53.360Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:13:58.361Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:13:58.362Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:14:03.365Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:14:03.366Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:14:08.359Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:14:08.359Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:14:13.362Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:14:13.367Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:14:18.356Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:14:18.356Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:14:23.358Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:14:23.359Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:14:28.361Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:14:28.362Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:14:33.356Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:14:33.357Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:14:38.390Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:14:38.395Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:14:43.373Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:14:43.374Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:14:48.357Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:14:48.358Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:14:53.363Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:14:53.363Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:14:58.363Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:14:58.363Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:15:03.376Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:15:03.377Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:15:08.378Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:15:08.379Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:15:13.382Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:15:13.382Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:15:18.378Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:15:18.379Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:15:23.375Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:15:23.376Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:15:28.379Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:15:28.379Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:15:33.376Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:15:33.377Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:15:38.376Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:15:38.376Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:15:51.972Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:15:51.973Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:15:57.799Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:15:57.800Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:16:03.711Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:16:03.712Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:16:08.661Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:16:08.666Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:16:13.665Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:16:13.666Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:16:18.657Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:16:18.657Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:16:23.658Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:16:23.658Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:21:21.635Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:21:21.641Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:21:26.621Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:21:26.621Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:21:31.620Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:21:31.621Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:21:33.233Z] INFO: Incoming Request: POST /api/image/upload
+[2024-11-27T10:21:33.320Z] INFO: New image added: image.jpg
+[2024-11-27T10:21:36.620Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:21:41.638Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:21:41.639Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:21:46.637Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:21:46.637Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:21:51.636Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:21:51.637Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:21:56.635Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:21:56.635Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:22:01.099Z] INFO: Incoming Request: POST /api/image/upload
+[2024-11-27T10:22:01.213Z] INFO: New image added: image.jpg
+[2024-11-27T10:22:01.636Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:22:06.688Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:22:06.688Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:22:12.370Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:22:12.371Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:22:17.379Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:22:17.379Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:22:22.381Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:22:22.382Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:22:27.385Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:22:27.385Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:22:32.379Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:22:32.380Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:22:49.119Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:22:49.120Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:22:51.258Z] INFO: Incoming Request: POST /api/image/upload
+[2024-11-27T10:22:51.354Z] INFO: New image added: image.jpg
+[2024-11-27T10:22:54.118Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:22:59.149Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:22:59.150Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:23:04.416Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:23:04.418Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:23:09.416Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:23:09.417Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:23:14.419Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:23:14.420Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:23:19.414Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:23:19.414Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:23:24.417Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:23:24.417Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:23:27.322Z] INFO: Incoming Request: POST /api/image/upload
+[2024-11-27T10:23:27.423Z] INFO: New image added: image.jpg
+[2024-11-27T10:23:29.419Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:23:34.484Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:23:34.484Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:23:39.482Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:23:39.483Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:23:44.482Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:23:44.482Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:23:49.514Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:23:49.514Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:23:54.516Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:23:54.517Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:23:59.513Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:23:59.514Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:24:04.513Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:24:04.514Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:24:06.527Z] INFO: Incoming Request: POST /api/image/upload
+[2024-11-27T10:24:06.628Z] INFO: New image added: image.jpg
+[2024-11-27T10:24:09.511Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:24:14.714Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:24:14.714Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:24:47.029Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:24:47.030Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:24:52.028Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:24:52.029Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:24:54.748Z] INFO: Incoming Request: POST /api/image/upload
+[2024-11-27T10:24:54.852Z] INFO: New image added: image.jpg
+[2024-11-27T10:24:57.030Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:25:02.061Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:25:02.062Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:25:07.063Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:25:07.063Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:26:49.151Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:26:49.157Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:26:54.140Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:26:54.140Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:26:55.576Z] INFO: Incoming Request: GET /upload
+[2024-11-27T10:26:55.583Z] ERROR: Error: Route not found. (Status Code: 404)
+[2024-11-27T10:26:59.142Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:26:59.142Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:27:01.952Z] INFO: Incoming Request: POST /api/image/upload
+[2024-11-27T10:27:01.959Z] INFO: New image added: 42_Portugal_ed2c81d072.png
+[2024-11-27T10:27:04.173Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:27:10.012Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:27:10.013Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:27:15.007Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:27:15.008Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:27:20.012Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:27:20.013Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:27:25.004Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:27:25.005Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:27:30.010Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:27:30.013Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:27:35.009Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:27:35.010Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:27:40.005Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:27:40.006Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:27:45.008Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:27:45.010Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:27:50.003Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:27:50.003Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:27:55.006Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:27:55.006Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:28:00.003Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:28:00.003Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:28:05.003Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:28:05.003Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:28:10.005Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:28:10.006Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:28:15.000Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:28:15.001Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:28:20.005Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:28:20.007Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:28:25.005Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:28:25.005Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:28:30.007Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:28:30.009Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:28:35.011Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:28:35.013Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:28:40.018Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:28:40.019Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:28:45.008Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:28:45.008Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:28:50.003Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:28:50.005Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:28:55.006Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:28:55.007Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:29:00.010Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:29:00.012Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:29:05.006Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:29:05.006Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:29:10.001Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:29:10.002Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:29:15.004Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:29:15.004Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:29:20.006Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:29:20.006Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:29:25.003Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:29:25.004Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:29:30.004Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:29:30.005Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:29:34.998Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:29:34.999Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:29:40.001Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:29:40.001Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:29:44.999Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:29:45.000Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:29:49.998Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:29:49.998Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:29:55.003Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:29:55.004Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:29:59.996Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:29:59.997Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:30:05.001Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:30:05.003Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:30:10.002Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:30:10.002Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:30:14.997Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:30:14.997Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:30:20.000Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:30:20.000Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:30:25.001Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:30:25.001Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:30:30.003Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:30:30.004Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:30:34.999Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:30:34.999Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:30:40.001Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:30:40.001Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:30:44.996Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:30:44.996Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:30:49.996Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:30:49.997Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:30:55.002Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:30:55.005Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:31:00.003Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:31:00.004Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:31:05.016Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:31:05.017Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:31:10.002Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:31:10.002Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:31:15.006Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:31:15.007Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:31:20.002Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:31:20.003Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:31:25.004Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:31:25.004Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:31:30.006Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:31:30.007Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:31:35.010Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:31:35.010Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:31:40.012Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:31:40.014Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:31:45.008Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:31:45.008Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:31:50.009Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:31:50.009Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:31:55.005Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:31:55.005Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:32:00.007Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:32:00.008Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:32:05.004Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:32:05.008Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:32:10.005Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:32:10.006Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:35:55.835Z] INFO: Server running at http://localhost:8080
+[2024-11-27T10:36:00.001Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:36:00.003Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:36:04.993Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:36:04.993Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:36:09.995Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:36:09.996Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:36:16.972Z] INFO: Incoming Request: POST /api/image/upload
+[2024-11-27T10:36:16.985Z] INFO: New image added: 42-Lisboa_RGB_Vertical.png
+[2024-11-27T10:36:23.911Z] INFO: Incoming Request: GET /fetch
+[2024-11-27T10:36:23.911Z] ERROR: Error: Route not found. (Status Code: 404)
+[2024-11-27T10:36:31.923Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:37:33.041Z] INFO: Server running at http://localhost:8080
+[2024-11-27T10:37:37.145Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:37:37.146Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:37:37.914Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:37:37.915Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:37:44.238Z] INFO: Incoming Request: POST /api/image/upload
+[2024-11-27T10:37:44.251Z] INFO: New image added: meo.png
+[2024-11-27T10:37:46.132Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:37:48.145Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:37:48.146Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:37:48.822Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:37:48.823Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:37:49.252Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:37:49.253Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:37:49.384Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:37:49.385Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:39:19.122Z] INFO: Server running at http://localhost:8080
+[2024-11-27T10:39:25.142Z] INFO: Incoming Request: POST /api/image/upload
+[2024-11-27T10:39:25.156Z] INFO: New image added: meo.png
+[2024-11-27T10:39:26.959Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:39:38.040Z] INFO: Server running at http://localhost:8080
+[2024-11-27T10:40:46.876Z] INFO: Server running at http://localhost:8080
+[2024-11-27T10:40:53.901Z] INFO: Server running at http://localhost:8080
+[2024-11-27T10:40:56.692Z] INFO: Server running at http://localhost:8080
+[2024-11-27T10:41:01.970Z] INFO: Incoming Request: POST /api/image/upload
+[2024-11-27T10:41:01.985Z] INFO: New image added: meo.png
+[2024-11-27T10:41:04.092Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:41:35.515Z] INFO: Server running at http://localhost:8080
+[2024-11-27T10:41:44.308Z] INFO: Server running at http://localhost:8080
+[2024-11-27T10:42:02.319Z] INFO: Server running at http://localhost:8080
+[2024-11-27T10:42:21.276Z] INFO: Server running at http://localhost:8080
+[2024-11-27T10:42:27.613Z] INFO: Incoming Request: POST /api/image/upload
+[2024-11-27T10:42:28.163Z] INFO: New image added: Logo_Color_POS-e1678461657770.png
+[2024-11-27T10:42:30.756Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:42:44.873Z] INFO: Incoming Request: POST /api/image/upload
+[2024-11-27T10:42:44.971Z] INFO: New image added: IMG_1053.jpeg
+[2024-11-27T10:42:50.891Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:43:04.055Z] INFO: Incoming Request: POST /api/image/upload
+[2024-11-27T10:43:04.145Z] INFO: New image added: image.jpg
+[2024-11-27T10:43:08.284Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:43:20.504Z] INFO: Incoming Request: POST /api/image/upload
+[2024-11-27T10:43:20.605Z] INFO: New image added: image.jpg
+[2024-11-27T10:43:23.819Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:47:04.672Z] INFO: Incoming Request: GET /apple-touch-icon-precomposed.png
+[2024-11-27T10:47:04.685Z] ERROR: Error: Route not found. (Status Code: 404)
+[2024-11-27T10:47:04.699Z] INFO: Incoming Request: GET /apple-touch-icon.png
+[2024-11-27T10:47:04.700Z] ERROR: Error: Route not found. (Status Code: 404)
+[2024-11-27T10:47:04.703Z] INFO: Incoming Request: GET /favicon.ico
+[2024-11-27T10:47:04.703Z] ERROR: Error: Route not found. (Status Code: 404)
+[2024-11-27T10:47:08.350Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:47:08.351Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:47:13.347Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:47:13.348Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:47:18.350Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:47:18.351Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:47:20.724Z] INFO: Incoming Request: POST /api/image/upload
+[2024-11-27T10:47:20.886Z] INFO: New image added: image.jpg
+[2024-11-27T10:47:23.350Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:47:28.468Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:47:28.468Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:47:33.466Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:47:33.466Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:47:38.467Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:47:38.467Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:47:43.468Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:47:43.468Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:47:48.467Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:47:48.467Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:47:53.467Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:47:53.468Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:47:58.985Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:47:58.987Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:48:03.999Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:48:04.000Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:48:09.032Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T10:48:09.034Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T10:50:21.502Z] INFO: Server running at http://localhost:8080
+[2024-11-27T10:59:19.355Z] INFO: Server running at http://localhost:8080
+[2024-11-27T10:59:25.444Z] INFO: Server running at http://localhost:8080
+[2024-11-27T11:00:49.052Z] INFO: Server running at http://localhost:8080
+[2024-11-27T11:00:58.746Z] INFO: Incoming Request: POST /api/image/upload
+[2024-11-27T11:01:00.714Z] INFO: New image added: LOGO-PS_TALENTS_2021_LOGO_V_COLOR.png
+[2024-11-27T11:01:05.266Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:01:11.189Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:01:11.191Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:01:16.856Z] INFO: Incoming Request: POST /api/image/upload
+[2024-11-27T11:01:17.005Z] INFO: New image added: PS_PREMIOS_2021_LOGO_V_WHITE_ALL.png
+[2024-11-27T11:01:19.771Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:01:58.522Z] INFO: Incoming Request: POST /api/image/upload
+[2024-11-27T11:01:58.664Z] INFO: New image added: image.jpg
+[2024-11-27T11:02:03.783Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:02:04.250Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:02:04.250Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:02:53.161Z] INFO: Server running at http://localhost:8080
+[2024-11-27T11:03:16.857Z] INFO: Server running at http://localhost:8080
+[2024-11-27T11:06:57.510Z] INFO: Server running at http://localhost:8080
+[2024-11-27T11:18:25.131Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:18:25.134Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:18:30.122Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:18:30.123Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:18:32.773Z] INFO: Incoming Request: POST /api/image/upload
+[2024-11-27T11:18:32.860Z] INFO: New image added: image.jpg
+[2024-11-27T11:18:35.122Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:18:35.143Z] WARN: Image EXIF orientation: {"width":4032,"height":3024,"orientation":6}
+[2024-11-27T11:18:40.205Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:18:40.205Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:18:45.221Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:18:45.222Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:18:51.061Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:18:51.062Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:18:56.088Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:18:56.089Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:19:01.929Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:19:01.930Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:19:06.923Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:19:06.923Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:19:12.802Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:19:12.803Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:19:17.795Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:19:17.796Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:20:28.589Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:20:28.590Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:20:29.953Z] INFO: Incoming Request: POST /api/image/upload
+[2024-11-27T11:20:30.054Z] INFO: New image added: image.jpg
+[2024-11-27T11:20:33.587Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:20:33.598Z] WARN: Image EXIF orientation: {"width":4032,"height":3024,"orientation":6}
+[2024-11-27T11:20:38.621Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:20:38.622Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:20:43.455Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:20:43.456Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:20:48.451Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:20:48.452Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:22:09.975Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:22:09.980Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:22:14.968Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:22:14.969Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:22:17.960Z] INFO: Incoming Request: POST /api/image/upload
+[2024-11-27T11:22:18.073Z] INFO: New image added: image.jpg
+[2024-11-27T11:22:19.966Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:22:19.971Z] WARN: Image EXIF orientation: {"width":4032,"height":3024,"orientation":6}
+[2024-11-27T11:22:25.442Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:22:25.443Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:22:30.433Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:22:30.434Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:22:35.436Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:22:35.437Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:22:40.438Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:22:40.439Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:22:45.435Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:22:45.436Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:22:50.441Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:22:50.441Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:22:55.440Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:22:55.441Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:23:00.433Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:23:00.434Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:23:05.436Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:23:05.437Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:23:10.434Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:23:10.434Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:23:15.434Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:23:15.435Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:23:20.440Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:23:20.441Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:23:25.435Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:23:25.436Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:23:30.435Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:23:30.436Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:23:35.438Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:23:35.439Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:23:40.433Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:23:40.434Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:23:45.436Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:23:45.437Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:23:50.438Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:23:50.438Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:23:55.433Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:23:55.434Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:24:00.435Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:24:00.436Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:24:05.442Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:24:05.445Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:24:10.433Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:24:10.434Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:24:15.435Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:24:15.436Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:24:20.431Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:24:20.432Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:24:25.434Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:24:25.434Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:24:30.436Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:24:30.436Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:24:35.431Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:24:35.431Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:24:40.434Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:24:40.434Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:24:45.436Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:24:45.436Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:24:50.432Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:24:50.433Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:24:55.434Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:24:55.434Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:25:00.435Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:25:00.438Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:25:05.433Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:25:05.433Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:25:10.438Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:25:10.440Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:25:15.430Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:25:15.430Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:25:57.858Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:25:57.863Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:26:02.847Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:26:02.848Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:26:07.849Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:26:07.849Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:26:12.846Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:26:12.847Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:26:17.846Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:26:17.846Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:26:22.846Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:26:22.847Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:26:27.847Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:26:27.852Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:26:32.847Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:26:32.847Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:26:37.846Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:26:37.847Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:26:42.845Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:26:42.845Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:26:47.846Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:26:47.846Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:26:52.847Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:26:52.848Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:26:57.845Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:26:57.846Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:27:02.846Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:27:02.846Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:27:07.847Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:27:07.848Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:27:12.846Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:27:12.846Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:27:17.846Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:27:17.846Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:27:22.845Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:27:22.846Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:27:28.445Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:27:28.446Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:27:33.444Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:27:33.445Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:27:38.447Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:27:38.447Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:27:43.442Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:27:43.442Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:27:48.445Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:27:48.445Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:27:53.447Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:27:53.448Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:27:58.443Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:27:58.443Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:28:03.445Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:28:03.445Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:28:08.443Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:28:08.444Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:28:13.443Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:28:13.444Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:28:18.445Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:28:18.446Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:28:23.440Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:28:23.441Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:28:28.443Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:28:28.444Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:28:33.446Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:28:33.446Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:28:38.441Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:28:38.442Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:28:43.444Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:28:43.444Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:28:48.447Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:28:48.448Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:28:53.442Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:28:53.443Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:28:58.444Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:28:58.445Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:29:03.440Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:29:03.440Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:29:08.441Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:29:08.442Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:29:13.444Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:29:13.445Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:29:18.440Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:29:18.441Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:29:23.442Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:29:23.443Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:29:28.445Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:29:28.445Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:29:33.441Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:29:33.442Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:29:38.443Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:29:38.443Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:29:43.445Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:29:43.446Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:29:48.441Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:29:48.441Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:29:53.445Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:29:53.445Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:29:58.441Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:29:58.441Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:30:03.443Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:30:03.444Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:30:08.440Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:30:08.440Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:30:13.441Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:30:13.442Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:30:18.443Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:30:18.444Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:30:23.438Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:30:23.439Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:30:28.441Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:30:28.442Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:30:33.443Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:30:33.444Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:30:38.439Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:30:38.440Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:30:43.442Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:30:43.442Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:30:48.444Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:30:48.444Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:30:53.440Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:30:53.440Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:30:58.441Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:30:58.442Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:31:03.437Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:31:03.438Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:31:08.440Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:31:08.440Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:31:13.442Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:31:13.442Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:31:18.437Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:31:18.438Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:31:23.440Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:31:23.441Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:31:28.442Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:31:28.443Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:31:33.438Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:31:33.439Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:31:38.440Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:31:38.441Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:31:43.443Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:31:43.443Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:31:48.439Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:31:48.440Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:31:53.441Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:31:53.441Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:31:58.443Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:31:58.444Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:32:03.438Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:32:03.438Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:32:08.441Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:32:08.442Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:32:13.435Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:32:13.435Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:32:18.438Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:32:18.439Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:32:23.441Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:32:23.441Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:32:28.440Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:32:28.442Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:32:33.438Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:32:33.439Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:32:38.442Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:32:38.442Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:32:43.437Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:32:43.437Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:32:48.439Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:32:48.440Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:32:53.442Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:32:53.442Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:32:58.440Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:32:58.441Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:33:03.439Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:33:03.440Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:33:08.436Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:33:08.436Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:33:13.440Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:33:13.440Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:33:18.441Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:33:18.441Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:33:23.434Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:33:23.435Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:33:28.438Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:33:28.439Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:33:33.440Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:33:33.441Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:33:38.434Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:33:38.435Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:33:43.438Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:33:43.439Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:33:48.441Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:33:48.441Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:33:53.437Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:33:53.437Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:33:58.438Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:33:58.439Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:34:03.435Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:34:03.435Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:34:08.434Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:34:08.435Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:34:13.435Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:34:13.436Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:34:18.432Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:34:18.432Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:34:23.433Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:34:23.433Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:34:28.428Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:34:28.429Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:34:33.430Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:34:33.430Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:34:38.432Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:34:38.433Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:34:43.427Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:34:43.428Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:34:48.429Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:34:48.430Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:34:53.433Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:34:53.433Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:34:58.429Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:34:58.430Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:35:03.429Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:35:03.430Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:35:08.426Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:35:08.427Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:35:13.428Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:35:13.429Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:35:18.430Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:35:18.431Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:35:23.426Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:35:23.426Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:35:28.428Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:35:28.428Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:35:33.431Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:35:33.431Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:35:38.426Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:35:38.426Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:35:43.429Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:35:43.429Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:35:48.431Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:35:48.432Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:35:53.427Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:35:53.427Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:35:58.428Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:35:58.428Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:36:03.425Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:36:03.426Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:36:08.428Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:36:08.429Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:36:13.428Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:36:13.428Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:36:18.424Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:36:18.425Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:36:23.428Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:36:23.428Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:36:28.429Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:36:28.430Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:36:33.425Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:36:33.425Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:36:38.427Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:36:38.428Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:36:43.429Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:36:43.430Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:36:48.424Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:36:48.425Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:36:53.428Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:36:53.428Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:36:58.430Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:36:58.431Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:37:03.425Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:37:03.426Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:37:08.428Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:37:08.429Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:37:13.423Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:37:13.424Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:37:18.426Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:37:18.427Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:37:23.428Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:37:23.428Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:37:28.424Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:37:28.425Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:37:33.426Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:37:33.427Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:37:38.422Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:37:38.423Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:37:43.426Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:37:43.427Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:37:48.428Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:37:48.429Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:37:53.423Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:37:53.424Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:37:58.425Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:37:58.426Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:38:03.422Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:38:03.422Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:38:08.425Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:38:08.425Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:38:13.427Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:38:13.428Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:38:18.422Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:38:18.423Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:38:23.425Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:38:23.425Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:38:28.427Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:38:28.428Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:38:33.423Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:38:33.423Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:38:38.425Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:38:38.425Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:38:43.427Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:38:43.427Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:38:48.423Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:38:48.423Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:38:53.424Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:38:53.425Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:38:58.420Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:38:58.421Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:39:03.422Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:39:03.423Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:39:08.420Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:39:08.420Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:39:13.423Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:39:13.424Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:39:18.424Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:39:18.425Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:39:23.422Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:39:23.422Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:39:28.677Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:39:28.678Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:39:33.675Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:39:33.676Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:39:38.671Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:39:38.671Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:39:43.764Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:39:43.785Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:39:48.674Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:39:48.675Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:39:53.681Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:39:53.681Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:39:58.672Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:39:58.673Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:40:03.674Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:40:03.674Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:40:08.669Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:40:08.670Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:40:23.142Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:40:23.143Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:40:28.138Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:40:28.138Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:40:28.255Z] INFO: Incoming Request: POST /api/image/upload
+[2024-11-27T11:40:28.341Z] INFO: New image added: image.jpg
+[2024-11-27T11:40:33.138Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:40:33.141Z] WARN: Image EXIF orientation: {"width":4032,"height":3024,"orientation":6}
+[2024-11-27T11:44:05.268Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:44:05.270Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:44:08.916Z] INFO: Incoming Request: POST /api/image/upload
+[2024-11-27T11:44:09.252Z] INFO: New image added: image.jpg
+[2024-11-27T11:44:10.261Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:44:10.265Z] WARN: Image EXIF orientation: {"width":4032,"height":3024,"orientation":6}
+[2024-11-27T11:44:46.973Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:44:46.974Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:44:50.689Z] INFO: Incoming Request: POST /api/image/upload
+[2024-11-27T11:44:50.770Z] INFO: New image added: image.jpg
+[2024-11-27T11:44:51.966Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:44:51.968Z] WARN: Image EXIF orientation: {"width":4032,"height":3024,"orientation":6}
+[2024-11-27T11:45:41.507Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:45:41.507Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:45:46.536Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:45:46.538Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:45:51.533Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:45:51.534Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:45:55.108Z] INFO: Incoming Request: POST /api/image/upload
+[2024-11-27T11:45:55.193Z] INFO: New image added: image.jpg
+[2024-11-27T11:45:56.530Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:45:56.533Z] WARN: Image EXIF orientation: {"width":4032,"height":3024,"orientation":6}
+[2024-11-27T11:46:01.883Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:46:01.883Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:46:06.882Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:46:06.883Z] ERROR: Error: No image available. (Status Code: 204)
+[2024-11-27T11:46:11.882Z] INFO: Incoming Request: GET /api/image/fetch
+[2024-11-27T11:46:11.883Z] ERROR: Error: No image available. (Status Code: 204)
